@@ -39,7 +39,7 @@
     "socket.io": "^3.0.0",
     "string.prototype.startswith": "^0.2.0",
     "validator": "^13.6.0",
-    "snyk": "^1.580.0"
+    "snyk": "^1.667.0"
   },
   "devDependencies": {
     "eslint": "^5.12.1",
